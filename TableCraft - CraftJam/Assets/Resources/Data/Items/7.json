@@ -1,0 +1,9 @@
+{
+  "ImagePath": "Nothing",
+  "ID": 7,
+  "Name": "Crafting Table",
+  "Craftable": true,
+  "Permanent": true,
+  "LifeTime": -1.0,
+  "Integrity": -1
+}

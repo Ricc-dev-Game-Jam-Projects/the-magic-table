@@ -1,0 +1,9 @@
+{
+  "ImagePath": "WoodPlank",
+  "ID": 6,
+  "Name": "Wooden Plank",
+  "Craftable": true,
+  "Permanent": false,
+  "LifeTime": 280.0,
+  "Integrity": -1
+}

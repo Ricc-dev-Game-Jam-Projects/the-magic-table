@@ -1,0 +1,11 @@
+{
+  "TimeToProduce": 3.0,
+  "MaterialID": 3,
+  "ImagePath": "WoodenAxe",
+  "ID": 2,
+  "Name": "Stone Hammer",
+  "Craftable": true,
+  "Permanent": false,
+  "LifeTime": -1.0,
+  "Integrity": 100
+}

@@ -1,0 +1,9 @@
+{
+  "ImagePath": "Nothing",
+  "ID": 5,
+  "Name": "Barricade",
+  "Craftable": true,
+  "Permanent": true,
+  "LifeTime": -1.0,
+  "Integrity": -1
+}

@@ -1,0 +1,9 @@
+{
+  "ImagePath": "RefinedStone",
+  "ID": 4,
+  "Name": "Refined Stone",
+  "Craftable": true,
+  "Permanent": true,
+  "LifeTime": -1.0,
+  "Integrity": -1
+}

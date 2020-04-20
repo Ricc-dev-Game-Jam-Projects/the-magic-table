@@ -1,0 +1,9 @@
+{
+  "ImagePath": "WoodenLog",
+  "ID": 0,
+  "Name": "Wooden Log",
+  "Craftable": false,
+  "Permanent": false,
+  "LifeTime": 30.0,
+  "Integrity": -1
+}

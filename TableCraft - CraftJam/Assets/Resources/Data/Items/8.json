@@ -1,0 +1,11 @@
+{
+  "TimeToProduce": 5.0,
+  "MaterialID": 3,
+  "ImagePath": "WoodenHammer",
+  "ID": 8,
+  "Name": "Wooden Hammer",
+  "Craftable": true,
+  "Permanent": false,
+  "LifeTime": -1.0,
+  "Integrity": 50
+}
