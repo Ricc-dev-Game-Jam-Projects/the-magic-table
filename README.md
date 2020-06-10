@@ -34,6 +34,6 @@ Artist - Gustavo Duarte
 # Time
 More or less than 10-15 hours
 
-<img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzEuanBn/original/Wo%2FI2r.jpg"/> <img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzIuanBn/original/Pij2n6.jpg"/>
-<img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MjguanBn/original/V4rREb.jpg"/> <img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzAuanBn/original/%2BDK15D.jpg"/>
-<img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MjkuanBn/original/ruW2Zc.jpg"/> <img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzMuanBn/original/Jc9uIl.jpg"/>
+<img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzEuanBn/original/Wo%2FI2r.jpg" width=450/> <img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzIuanBn/original/Pij2n6.jpg" width=450/>
+<img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MjguanBn/original/V4rREb.jpg" width=450/> <img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzAuanBn/original/%2BDK15D.jpg" width=450/>
+<img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MjkuanBn/original/ruW2Zc.jpg" width=450/> <img src="https://img.itch.zone/aW1hZ2UvNjE2NTExLzMyNzg3MzMuanBn/original/Jc9uIl.jpg" width=450/>
